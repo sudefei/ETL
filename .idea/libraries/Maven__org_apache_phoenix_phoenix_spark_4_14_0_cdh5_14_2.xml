@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.phoenix:phoenix-spark:4.14.0-cdh5.14.2">
+    <CLASSES>
+      <root url="jar://D:/App/apache-maven-3.3.3/repostitory/org/apache/phoenix/phoenix-spark/4.14.0-cdh5.14.2/phoenix-spark-4.14.0-cdh5.14.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/App/apache-maven-3.3.3/repostitory/org/apache/phoenix/phoenix-spark/4.14.0-cdh5.14.2/phoenix-spark-4.14.0-cdh5.14.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/App/apache-maven-3.3.3/repostitory/org/apache/phoenix/phoenix-spark/4.14.0-cdh5.14.2/phoenix-spark-4.14.0-cdh5.14.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

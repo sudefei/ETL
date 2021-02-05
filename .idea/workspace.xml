@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CZSAnalyze:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="937f06f2-a19e-4e01-b453-e297f3facdcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/CZS_Utils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/array/ArraySortAndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/array/ArrayTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/array/ArrayTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/array/CountCommon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/array/FindGreatestSumOfSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/array/FindNumbersWithSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/array/LinklistTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/array/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/array/MergeTwoLlinklist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/array/NumberOf1Between1AndN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/array/SomeMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/company/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/company/StringToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/foramt/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/foramt/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/foramt/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/foramt/TeacherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/stack/DefineSatck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/stack/PostFixEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/stack/StackToQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/string/CountEveluate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/string/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/string/SentenceReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/string/StringToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/tree/HasSubtree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/tree/TreeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/src/main/java/com/tree/levelPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jboot-component-debus2-flume-0.0.3-20200331.082252-1-sources/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="465895024">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.138" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="2" />
+          <entry key="class" value="2" />
+          <entry key="java" value="3" />
+          <entry key="properties" value="2" />
+          <entry key="scala" value="21" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="3" />
+          <entry key="Manifest" value="2" />
+          <entry key="Properties" value="2" />
+          <entry key="Scala" value="21" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scala" value="9693" />
+          <entry key="xml" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="9693" />
+          <entry key="XML" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1657619641">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scala" value="1740" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="1740" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="scala" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Scala" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1843915648">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="2" />
+          <entry key="scala" value="15" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="2" />
+          <entry key="Scala" value="15" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scala" value="4307" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="4307" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/wisdom/JYK_CZS.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="229" column="12" selection-start-line="229" selection-start-column="7" selection-end-line="229" selection-end-column="12" />
+              <folding>
+                <element signature="e#20#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/wisdom/SPC_CZS.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="139" column="7" lean-forward="true" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
+              <folding>
+                <element signature="e#20#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/utils/CZS_Utils.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1058">
+              <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
+              <folding>
+                <element signature="e#19#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/utils/ExportTable.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/wisdom/CZSAnalyze.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="38" column="19" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/ClassLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="356" selection-start-line="356" selection-end-line="356" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/jre/lib/rt.jar!/sun/misc/Launcher.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="199" selection-start-line="199" selection-end-line="199" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;SCORE&quot;</find>
+      <find>BANCI_NAME</find>
+      <find>split</find>
+      <find>QTY_INS</find>
+      <find>task2</find>
+      <find>join</find>
+      <find>corespc</find>
+      <find>MATERIALNAME</find>
+      <find>子组判定结果</find>
+      <find>udf</find>
+      <find>count</find>
+      <find>systandardcode</find>
+      <find>InsResultCode</find>
+      <find>完成&quot;</find>
+      <find>完成</find>
+      <find>INSRESULTNAME</find>
+      <find>WORKSTATUSNAME</find>
+      <find>WORKFLAGCODE</find>
+      <find>accPassRate</find>
+      <find>spc</find>
+      <find>main</find>
+      <find>.count</find>
+      <find>CL</find>
+      <find>CL&quot;</find>
+      <find>CPK</find>
+      <find>MATERIAL</find>
+      <find>groupby</find>
+      <find>SYSTAN</find>
+      <find>wher</find>
+      <find>where</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>left_outer</replace>
+      <replace>mes_wks</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/com/wisdom/HSDAnalyze.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/wisdom/JYKAnalyze.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/wisdom/JYK_CZS_buk.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/wisdom/TestOracle.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/wisdom/Buck.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/dependency-reduced-pom.xml" />
+        <option value="$PROJECT_DIR$/CZSAnalyze/src/main/scala/com/wisdom/CZSAnalyze.scala" />
+        <option value="$PROJECT_DIR$/src/test/java/test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/wisdom/Utils.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/utils/Utils.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/utils/ExportTable.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/wisdom/SPC_CZS_buk.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/utils/CZS_Utils.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/wisdom/CZSAnalyze.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/wisdom/JYK_CZS.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/wisdom/SPC_CZS.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\App\apache-maven-3.3.3\repostitory" />
+        <option name="mavenHome" value="D:/App/apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="D:\App\apache-maven-3.3.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CZSAnalyze" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CZSAnalyze" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="590" />
+    <option name="y" value="5" />
+    <option name="width" value="1370" />
+    <option name="height" value="995" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CZSAnalyze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CZSAnalyze" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CZSAnalyze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CZSAnalyze" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CZSAnalyze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CZSAnalyze" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CZSAnalyze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CZSAnalyze" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CZSAnalyze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CZSAnalyze" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CZSAnalyze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CZSAnalyze" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CZSAnalyze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CZSAnalyze" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wisdom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CZSAnalyze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CZSAnalyze" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CZSAnalyze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CZSAnalyze" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1612502548704" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32822362" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wisdom" />
+      <recent name="com.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\File\WorkFile\DataTransfer\PD_CZS\新增三级站\CZSAnalyze\CZSAnalyze" />
+      <recent name="D:\File\WorkFile\DataTransfer\PD_CZS\新增三级站\CZSAnalyze\CZSAnalyze\src\main\scala\com\wisdom" />
+      <recent name="D:\CodeWare\IDEA\CZSAnalyze\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SPC_CZS">
+    <configuration name="CZSAnalyze" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.wisdom.CZSAnalyze" />
+      <module name="CZSAnalyze" />
+      <option name="PROGRAM_PARAMETERS" value="9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JYK_CZS" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wisdom.JYK_CZS" />
+      <module name="CZSAnalyze" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SPC_CZS" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wisdom.SPC_CZS" />
+      <module name="CZSAnalyze" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wisdom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOracle" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wisdom.TestOracle" />
+      <module name="CZSAnalyze" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="CZSAnalyze" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JYK_CZS" />
+      <item itemvalue="Application.TestOracle" />
+      <item itemvalue="Application.CZSAnalyze" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.SPC_CZS" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SPC_CZS" />
+        <item itemvalue="Application.CZSAnalyze" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.JYK_CZS" />
+        <item itemvalue="Application.TestOracle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="dontShowConversionDialog" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="937f06f2-a19e-4e01-b453-e297f3facdcc" name="Default Changelist" comment="" />
+      <created>1603766826151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603766826151</updated>
+      <workItem from="1603766830212" duration="42328000" />
+      <workItem from="1604279738346" duration="44477000" />
+      <workItem from="1604390826488" duration="86000" />
+      <workItem from="1604471299514" duration="4330000" />
+      <workItem from="1604540718876" duration="28000" />
+      <workItem from="1604561880545" duration="3000" />
+      <workItem from="1604562213288" duration="1687000" />
+      <workItem from="1604899532417" duration="2440000" />
+      <workItem from="1604971570983" duration="4543000" />
+      <workItem from="1605056555571" duration="5841000" />
+      <workItem from="1605072720364" duration="17457000" />
+      <workItem from="1605143608679" duration="86739000" />
+      <workItem from="1605398958502" duration="42282000" />
+      <workItem from="1605496608774" duration="591000" />
+      <workItem from="1605497226222" duration="9280000" />
+      <workItem from="1605509289794" duration="3896000" />
+      <workItem from="1605515586996" duration="8592000" />
+      <workItem from="1605577172089" duration="16645000" />
+      <workItem from="1605773306595" duration="9214000" />
+      <workItem from="1605839038142" duration="1786000" />
+      <workItem from="1605863959344" duration="12335000" />
+      <workItem from="1605967711622" duration="1729000" />
+      <workItem from="1606125171088" duration="605000" />
+      <workItem from="1606185239643" duration="9000" />
+      <workItem from="1606276295704" duration="4395000" />
+      <workItem from="1606875909222" duration="1472000" />
+      <workItem from="1609396441180" duration="1253000" />
+      <workItem from="1609738357462" duration="1802000" />
+      <workItem from="1609809287333" duration="1804000" />
+      <workItem from="1610960851647" duration="2204000" />
+      <workItem from="1611022960266" duration="7529000" />
+      <workItem from="1611551830914" duration="646000" />
+      <workItem from="1611565608270" duration="728000" />
+      <workItem from="1611623667633" duration="6491000" />
+      <workItem from="1611739408732" duration="72814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="418061000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16353887" />
+      <window_info id="Structure" order="1" weight="0.24932976" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.26241136" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.17730497" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5030257" side_tool="true" weight="0.43707484" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.33617023" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32852808" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="8" visible="true" weight="0.09986595" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22617246" />
+      <window_info id="Structure" order="1" weight="0.24962063" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.3546798" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28929767" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5030257" side_tool="true" weight="0.43707484" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32840723" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32852808" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.14599092" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/com/wisdom/Test.scala</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/com/utils/CZS_Utils.scala</url>
+          <line>126</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>originDF.printSchema()</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>detail.show(2)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>detail.where(&quot;FLAG = 0&quot;).groupBy(&quot;WORKORDERID&quot;,&quot;TAGID&quot;).count()</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>detail.where(&quot;FLAG = 1&quot;).groupBy(&quot;WORKORDERID&quot;,&quot;TAGID&quot;).count()</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>spc_detail_df.show(2)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>detail.show(5)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wks</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wkp.asInstanceOf[DataFrame].select(&quot;BILLDATE&quot;,&quot;CLASSGROUPCODE&quot;,&quot;CLASSLABELCODE&quot;,&quot;WORKCENTERCODE&quot;)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wkp(&quot;BILLDATE&quot;,&quot;CLASSGROUPCODE&quot;,&quot;CLASSLABELCODE&quot;,&quot;WORKCENTERCODE&quot;)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Environment/mvn_trace/repository/org/apache/hadoop/hadoop-common/2.6.0-cdh5.14.2/hadoop-common-2.6.0-cdh5.14.2-sources.jar!/org/apache/hadoop/fs/permission/FsPermission.java" />
+    <entry file="jar://D:/Environment/mvn_trace/repository/org/apache/hadoop/hadoop-common/2.6.0-cdh5.14.2/hadoop-common-2.6.0-cdh5.14.2-sources.jar!/org/apache/hadoop/fs/FileSystem.java" />
+    <entry file="jar://D:/Environment/mvn_trace/repository/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/SQLConf.scala" />
+    <entry file="jar://D:/Environment/mvn_trace/repository/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/execution/datasources/ResolvedDataSource.scala" />
+    <entry file="jar://D:/Environment/mvn_trace/repository/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/DataFrameWriter.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hbase-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Environment/mvn_trace/repository/org/apache/spark/spark-core_2.10/1.6.0-cdh5.14.0/spark-core_2.10-1.6.0-cdh5.14.0.jar!/org/apache/spark/rdd/RDD.class" />
+    <entry file="jar://D:/Environment/mvn_trace/repository/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/functions.scala" />
+    <entry file="jar://D:/Environment/mvn_trace/repository/org/apache/spark/spark-catalyst_2.10/1.6.0-cdh5.14.0/spark-catalyst_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/Row.scala" />
+    <entry file="jar://D:/Environment/mvn_trace/repository/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/GroupedData.scala" />
+    <entry file="jar://D:/Environment/mvn_trace/repository/org/apache/spark/spark-catalyst_2.10/1.6.0-cdh5.14.0/spark-catalyst_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/catalyst/plans/joinTypes.scala" />
+    <entry file="jar://D:/Environment/mvn_trace/repository/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/DataFrame.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hdfs-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/wisdom/JYKAnalyze.scala" />
+    <entry file="jar://D:/App/apache-maven-3.3.3/repository/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0.jar!/org/apache/spark/sql/SQLContext.class" />
+    <entry file="jar://D:/App/apache-maven-3.3.3/repostitory/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/functions.scala" />
+    <entry file="jar://D:/App/apache-maven-3.3.3/repostitory/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/GroupedData.scala" />
+    <entry file="jar://D:/App/apache-maven-3.3.3/repostitory/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.jar!/oracle/net/resolver/AddrResolution.class" />
+    <entry file="jar://D:/App/apache-maven-3.3.3/repostitory/sqlline/sqlline/1.2.0/sqlline-1.2.0.jar!/sqlline/SqlLine.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/wisdom/Buck.scala" />
+    <entry file="jar://D:/App/apache-maven-3.3.3/repostitory/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/Column.scala" />
+    <entry file="jar://D:/App/apache-maven-3.3.3/repostitory/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/DataFrame.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/wisdom/TestOracle.scala" />
+    <entry file="jar://D:/App/apache-maven-3.3.3/repostitory/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/SQLContext.scala" />
+    <entry file="file://$PROJECT_DIR$/dependency-reduced-pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/sql/Date.java" />
+    <entry file="jar://D:/App/apache-maven-3.3.3/repostitory/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/SaveMode.java" />
+    <entry file="jar://D:/apache-maven-3.5.2/respository/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/DataFrame.scala" />
+    <entry file="jar://D:/apache-maven-3.5.2/respository/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/jdbc/JdbcDialects.scala" />
+    <entry file="jar://D:/apache-maven-3.5.2/respository/org/apache/spark/spark-catalyst_2.10/1.6.0-cdh5.14.0/spark-catalyst_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/types/DecimalType.scala" />
+    <entry file="jar://D:/apache-maven-3.5.2/respository/org/apache/spark/spark-sql_2.10/1.6.0-cdh5.14.0/spark-sql_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/SaveMode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/wisdom/test.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/wisdom/HSDAnalyze.scala" />
+    <entry file="file://$PROJECT_DIR$/CZSAnalyze/src/main/scala/com/wisdom/CZSAnalyze.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-309">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CZSAnalyze/src/main/scala/com/wisdom/Buck.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1539">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CZSAnalyze/src/main/scala/com/wisdom/HSDAnalyze.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="381" selection-start-line="381" selection-end-line="381" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/wisdom/package.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/wisdom/Utils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#20#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/apache-maven-3.3.3/repostitory/org/apache/spark/spark-catalyst_2.10/1.6.0-cdh5.14.0/spark-catalyst_2.10-1.6.0-cdh5.14.0-sources.jar!/org/apache/spark/sql/catalyst/ScalaReflection.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="683" column="11" selection-start-line="683" selection-start-column="11" selection-end-line="683" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/utils/ExportTable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/wisdom/SPC_CZS_buk.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="93" column="35" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/utils/CZS_Utils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
+          <folding>
+            <element signature="e#19#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/wisdom/CZSAnalyze.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/wisdom/JYK_CZS.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="229" column="12" selection-start-line="229" selection-start-column="7" selection-end-line="229" selection-end-column="12" />
+          <folding>
+            <element signature="e#20#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/wisdom/SPC_CZS.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="139" column="7" lean-forward="true" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
+          <folding>
+            <element signature="e#20#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>CZSAnalyze:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32822362" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32822362" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.10.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32822362" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32822362" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CZSAnalyze-sjz</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32822362" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32822362" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

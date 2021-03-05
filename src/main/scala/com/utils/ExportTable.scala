@@ -5,9 +5,12 @@ import java.net.URI
 import org.apache.hadoop.fs.{FileSystem, Path}
 import org.apache.spark.sql.SQLContext
 import org.apache.spark.{SparkConf, SparkContext}
+import org.slf4j.LoggerFactory
 
 
 object ExportTable {
+    private val logger = LoggerFactory.getLogger(ExportTable.getClass)
+
     def main(args: Array[String]): Unit = {
         // 读取参数
         // 要导出的表格
@@ -48,8 +51,10 @@ object ExportTable {
         originData.registerTempTable("temporaryTable")
         val data=sqlContext.sql("select "+columns+" from temporaryTable")
             .where("OPRATIONFLAG != 'DELETE'")
-            .where(dateColumn + ">from_unixtime( to_unix_timestamp(now())-" + seconds + " , 'yyyy-MM-dd HH:mm:ss')")
-        
+//            .where(dateColumn + ">from_unixtime( to_unix_timestamp(now())-" + seconds + " , 'yyyy-MM-dd HH:mm:ss')")
+//        println(s"${table} 最终数据条数为:${data.count()}")
+        logger.warn(s"${table} 最终数据条数为:${data.count()}")
+
         // 写出处理结果
         val hdfsConf = sc.hadoopConfiguration
         val hdfs = FileSystem.get(new URI("/"), hdfsConf, "hdfs")

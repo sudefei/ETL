@@ -48,7 +48,7 @@ object JYK_CZS {
     val p = new java.util.Properties()
     p.put("driver", "oracle.jdbc.OracleDriver")
     p.put("user", "PDCZS")
-    p.put("password", "b1is%iCb")
+    p.put("password", "password123456")
     p
   }
 
@@ -326,7 +326,7 @@ object JYK_CZS {
         final_sample_score("SAMPLE_ID").cast(StringType), lit(46).cast(StringType), lit("P_Check"), lit("JL"), lit(null).cast(StringType), final_detail("ITEMCODE"), final_detail("ITEMNAME"),
         final_detail("DESIGN"), final_detail("DOWN_LIMIT").cast(DecimalType(8, 3)), lit(null).cast(StringType), final_detail("UP_LIMIT").cast(DecimalType(8, 3)), lit(null).cast(StringType), ((final_detail("DOWN_LIMIT") + final_detail("UP_LIMIT")) / 2).cast(DecimalType(38, 0)), final_detail("SAMPLENUMBER").cast(DecimalType(38, 0)),
         final_detail("DESIGN").cast(DecimalType(38, 0)), final_detail("MAXVAL").cast(DecimalType(19, 5)), final_detail("MINVAL").cast(DecimalType(19, 5)), final_detail("AVGVAL").cast(DecimalType(19, 5)), final_detail("STDVAL").cast(DecimalType(19, 5)), final_detail("ITEMCPK").cast(DecimalType(19, 5)), final_detail("ITEMPPK").cast(DecimalType(19, 5)), final_detail("VARVAL").cast(DecimalType(19, 5)), final_qx_score("QXTYPE_NAME"),
-        final_qx_score("QX_NUM").cast(DecimalType(38, 0)), (final_detail("SAMPLENUMBER") - final_qx_score("QX_NUM")).cast(DecimalType(38, 0)), lit(null).cast(DecimalType(38, 0)), final_qx_score("QX_SCORE").cast(DecimalType(8,3)), final_qx_score("SCORE").cast(DecimalType(8, 3)), final_detail("JUDGE_NAME"), final_qx_score("PassRate").cast(DecimalType(19, 5)),
+        final_qx_score("QX_NUM").cast(DecimalType(38, 0)), (final_detail("SAMPLENUMBER") - final_qx_score("QX_NUM")).cast(DecimalType(38, 0)), lit(null).cast(DecimalType(38, 0)), final_qx_score("QX_SCORE").cast(DoubleType), final_qx_score("SCORE").cast(DecimalType(8, 3)), final_detail("JUDGE_NAME"), final_qx_score("PassRate").cast(DecimalType(19, 5)),
         final_qx_score("FullRate").cast(DecimalType(19, 5)), final_sample_score("WORKSHOP_NAME"),lit(null).cast(StringType),lit(null).cast(StringType),lit(null).cast(StringType),lit(null).cast(StringType)
       )
 //        CZS_MulAnalysisOfPhysical.show(10)
@@ -334,25 +334,25 @@ object JYK_CZS {
     //    CZS_MulAnalysisOfPhysical.show()
     //    logger.warn(s"CZS_MulAnalysisOfPhysical 的Count： ${CZS_MulAnalysisOfPhysical.count()}")
     //    CZS_MulAnalysisOfPhysical.show(10)
-    val origin_schema = getOracleDF(sQLContext, TABLE_CZS_DETAIL_VALUE).schema
-    logger.warn(s"origin_oracle_CZS_MulAnalysisOfPhysical schema:$origin_schema")
-    val CZS_MulAnalysisOfPhysical_final = sQLContext.createDataFrame(CZS_MulAnalysisOfPhysical.rdd, origin_schema)
+//    val origin_schema = getOracleDF(sQLContext, TABLE_CZS_DETAIL_VALUE).schema
+//    logger.warn(s"origin_oracle_CZS_MulAnalysisOfPhysical schema:$origin_schema")
+//    val CZS_MulAnalysisOfPhysical_final = sQLContext.createDataFrame(CZS_MulAnalysisOfPhysical.rdd, origin_schema)
 //        .filter("SCORE IS NOT NULL")
     //    CZS_MulAnalysisOfPhysical
-    CZS_MulAnalysisOfPhysical_final.show(10)
+    CZS_MulAnalysisOfPhysical.show(10)
 //    logger.warn(s"最终大表的数据为  ${CZS_MulAnalysisOfPhysical_final.count()}")
-    CZS_MulAnalysisOfPhysical_final
+    CZS_MulAnalysisOfPhysical
   }
 
 
   def getOracleDF(sQLContext: SQLContext, tableName: String): DataFrame = {
     val df = sQLContext.read
       .format("jdbc")
-      .option("url", "jdbc:oracle:thin:@//10.10.184.60/PDCZS")
+      .option("url", "jdbc:oracle:thin:@//10.10.184.150/pdczs.yc.sh.tb")
       .option("driver", "oracle.jdbc.OracleDriver")
       .option("dbtable", tableName)
       .option("user", "PDCZS")
-      .option("password", "b1is%iCb")
+      .option("password", "password123456")
       .load()
     df
   }

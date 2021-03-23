@@ -22,7 +22,7 @@ object CZS_Utils {
     val p = new java.util.Properties()
     p.put("driver", "oracle.jdbc.OracleDriver")
     p.put("user", "PDCZS")
-    p.put("password", "b1is%iCb")
+    p.put("password", "password123456")
     p
   }
 
@@ -60,11 +60,11 @@ object CZS_Utils {
   def getCZSOracleDF(sQLContext: SQLContext, tableName: String): DataFrame = {
     val df = sQLContext.read
       .format("jdbc")
-      .option("url", "jdbc:oracle:thin:@//10.10.184.60/PDCZS")
+      .option("url", "jdbc:oracle:thin:@//10.10.184.150/pdczs.yc.sh.tb")
       .option("driver", "oracle.jdbc.OracleDriver")
       .option("dbtable", tableName)
       .option("user", "PDCZS")
-      .option("password", "b1is%iCb")
+      .option("password", "password123456")
       .load()
     df
   }
@@ -87,14 +87,14 @@ object CZS_Utils {
     dataFrame
       .dropDuplicates(Seq("ID"))
       .repartition(1)
-      .write.mode(SaveMode.Append).jdbc("jdbc:oracle:thin:@//10.10.184.60/PDCZS", tableName, prop)
+      .write.mode(SaveMode.Append).jdbc("jdbc:oracle:thin:@//10.10.184.150/PDCZS", tableName, prop)
 //    logger.warn(s"落地oracle表${tableName}成功")
   }
 
   def writeOracleTableWithoutDrop(dataFrame: DataFrame, tableName: String, saveMode: SaveMode): Unit = {
     dataFrame
       .repartition(1)
-      .write.mode(SaveMode.Append).jdbc("jdbc:oracle:thin:@//10.10.184.60/PDCZS", tableName, prop)
+      .write.mode(SaveMode.Append).jdbc("jdbc:oracle:thin:@//10.10.184.150/PDCZS", tableName, prop)
 //    logger.warn(s"落地oracle表${tableName}成功")
   }
 
